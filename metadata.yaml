@@ -1,5 +1,8 @@
 _repo: Tide-marks-b-being-some-records-of-a-journey-to-the-beaches-of-the-Moluccas-and-the-forest-of__74847
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74847-h/images/cover.jpg
 creator:
   author:
     agent_name: Tomlinson, H. M. (Henry Major)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5787
     wikipedia: https://en.wikipedia.org/wiki/H._M._Tomlinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74847#Tide-marks-b-being-some-records-of-a-journey-to-the-beaches-of-the-Moluccas-and-the-forest-of_
 gutenberg_issued: '2024-12-06'
 gutenberg_type: Text
 identifiers:
